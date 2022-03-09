@@ -73,7 +73,7 @@ const List = ({
                     item.task
                   )}
                 </span>
-                <div style={{display:"flex", flexDirection:"inherit"}}>
+                <div style={{ display: "flex", flexDirection: "inherit" }}>
                   <div onClick={() => toggleEdit(item.id, item.isEdit)}>
                     <i
                       className={!item.isEdit ? "bi bi-pen" : "bi bi-pen-fill"}

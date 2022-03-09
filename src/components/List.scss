@@ -5,7 +5,7 @@
   align-content: center;
   flex-direction: column;
   min-width: 450px;
-  
+
   border: solid 1px #ffffff;
   border-radius: 30px;
   box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
@@ -21,8 +21,7 @@ h1 {
   color: #4d5a6a;
 }
 
-
-.rotate{
+.rotate {
   color: rgb(12, 228, 12);
 }
 
@@ -88,7 +87,7 @@ h1 {
 
 .task {
   word-wrap: break-word;
-  width: 22vh;                      //tuzmiana
+  width: 22vh; //tuzmiana
 }
 
 .add-button:hover {
@@ -176,7 +175,6 @@ h1 {
   color: #ff6660;
 }
 .bi-check-circle {
-
   cursor: pointer;
   padding: 6px;
 }
